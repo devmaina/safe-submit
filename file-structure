@@ -1,0 +1,16 @@
+safe-submit-app/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── forms.py
+│   ├── config.py
+│   ├── requirements.txt
+│   └── ...
+├── Dockerfile
+├── docker-compose.yml
+└── ...
